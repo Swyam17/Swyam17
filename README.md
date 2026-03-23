@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 ## 👨‍💻 About Me  <br><br>🔭 I’m currently working on  <br>- Machine Learning projects (Fraud Detection, Finance Manager)  <br>- Full-stack AI-based applications  <br><br>👯 I’m looking to collaborate on  <br>- AI/ML projects  <br>- Data Science & Analytics projects  <br>- Open-source contributions  <br><br>🤝 I’m looking for help with  <br>- Advanced Machine Learning & Deep Learning  <br>- Model optimization & deployment (MLOps)  <br><br>🌱 I’m currently learning  <br>- Advanced ML algorithms  <br>- Data Science & Statistical Analysis  <br>- Backend integration for AI systems  <br><br>💬 Ask me about  <br>- Python, Machine Learning, Data Analysis  <br>- Algorithms & Problem Solving  <br>- GitHub Projects & Development  <br><br>⚡ Fun fact  <br>- I love turning data into meaningful insights and building smart systems 🚀  
 
