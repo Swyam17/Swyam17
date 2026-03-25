@@ -53,7 +53,7 @@ Driven by curiosity, innovation, and continuous learning.
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,react,nextjs,nodejs,express,tailwind,mongodb,mysql,tensorflow,pytorch,sklearn,pandas,numpy,vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,react,nextjs,nodejs,express,tailwind,mongodb,mysql,tensorflow,pytorch,sklearn,pandas,numpy,vite,github" />
 </p>
 
 ---
