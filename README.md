@@ -1,7 +1,15 @@
-
+<!-- Animated Typing Header -->
 <h1 align="center">
-  Hello Everyone !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Swyam Arora
+  Hello Everyone !! 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
+  I'm Swyam Arora
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Full+Stack+Developer;Data+Analyst;Always+Learning+New+Things+🚀">
+</p>
+
+---
 
 <h3 align="center">
 A passionate AI/ML Engineer, Full Stack Developer, and Data Analyst
@@ -9,51 +17,66 @@ A passionate AI/ML Engineer, Full Stack Developer, and Data Analyst
 
 <p align="center">
 I thrive on transforming ideas into intelligent solutions using code and data. <br>
-My journey in tech is driven by curiosity, continuous learning, and innovation.
+Driven by curiosity, innovation, and continuous learning.
 </p>
 
 ---
 
-### 💫 About Me
+## 💫 About Me
 
-- 🔭 Currently working on **Machine Learning projects (Fraud Detection, Finance Manager)**
-- 🤖 Building **Full-stack AI-based applications**
-- 🌱 Exploring **Advanced ML, Data Science & Backend Systems**
-- 👯 Looking to collaborate on **AI/ML & Open Source Projects**
-- 🤝 Seeking help in **Deep Learning & MLOps**
+- 🔭 Working on **ML Projects (Fraud Detection, Finance Manager)**
+- 🤖 Building **AI-powered Full Stack Applications**
+- 🌱 Learning **Advanced ML, Data Science & Backend Systems**
+- 👯 Open to collaborate on **AI/ML & Open Source**
+- 🤝 Need help in **Deep Learning & MLOps**
 - 💬 Ask me about **Python, ML, Data Analysis, DSA**
-- 📫 Reach me at: **swyamarora1@gmail.com**
-- ⚡ Fun fact: I love turning data into meaningful insights 🚀  
+- ⚡ Fun fact: Turning data into insights is my superpower 🚀  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Swyam%20Arora-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swyam-arora-8661a3310/)
-[![Instagram](https://img.shields.io/badge/Instagram-swyam__17-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swyam_17)
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Swyam17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Swyam17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Swyam17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/swyam-arora-8661a3310/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://www.instagram.com/swyam_17" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Swyam17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**Swyam17/Swyam17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Tech Stack
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,nodejs,react,mongodb,mysql,git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swyam17&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swyam17&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Swyam17&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swyam17&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
