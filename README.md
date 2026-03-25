@@ -58,6 +58,28 @@ Driven by curiosity, innovation, and continuous learning.
 
 ---
 
+## 🚀 Projects
+
+### 🔹 Blinkit Propulsion Hub 🚀
+💡 **Full-Stack AI Analytics Suite for real-time decision making**  
+- ⚡ Built a high-performance analytics dashboard with **Vanilla JS, Node.js, Express & MongoDB**  
+- 🤖 Integrated **Google Gemini 1.5 Flash API** for an intelligent AI assistant (Propulsion AI Bot)  
+- 📊 Developed **interactive charts & trajectory visuals** for business insights  
+- 🎮 Designed a **Tactical Control Panel** with real-time CRUD operations & live sync  
+- 🔒 Ensured **enterprise-grade security** using backend API proxying  
+
+---
+
+### 🔹 FINTRACK 💰
+💡 **Next-gen financial management & investment tracking platform**  
+- 💎 Designed a **Glassmorphism UI** with animations using Framer Motion  
+- 📈 Implemented **real-time asset tracking** (Crypto + Gold + Silver) with live price updates  
+- 🧠 Built **FinBot (AI Assistant)** for smart financial insights & recommendations  
+- 🛡️ Developed **hybrid database system (MySQL + MongoDB)** for scalability  
+- 🔐 Secured transactions using **SHA-256 blockchain-style hashing**  
+- 🤝 Integrated **insurance recommendations (Tata AIA)** for financial planning  
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
