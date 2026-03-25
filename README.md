@@ -1,10 +1,31 @@
 
-# 💫 About Me:
-Hello Everyone !! I'm Swyam Arora
-A passionate AI/ML Engineer, Full Stack Developer, and Data Analyst
-I enjoy transforming ideas into intelligent solutions using code and data. My journey in tech is driven by curiosity, continuous learning, and a strong passion for innovation.
-## 👨‍💻 About Me  <br><br>🔭 I’m currently working on  <br>- Machine Learning projects (Fraud Detection, Finance Manager)  <br>- Full-stack AI-based applications  <br><br>👯 I’m looking to collaborate on  <br>- AI/ML projects  <br>- Data Science & Analytics projects  <br>- Open-source contributions  <br><br>🤝 I’m looking for help with  <br>- Advanced Machine Learning & Deep Learning  <br>- Model optimization & deployment (MLOps)  <br><br>🌱 I’m currently learning  <br>- Advanced ML algorithms  <br>- Data Science & Statistical Analysis  <br>- Backend integration for AI systems  <br><br>💬 Ask me about  <br>- Python, Machine Learning, Data Analysis  <br>- Algorithms & Problem Solving  <br>- GitHub Projects & Development  <br><br>⚡ Fun fact  <br>- I love turning data into meaningful insights and building smart systems 🚀  
+<h1 align="center">
+  Hello Everyone !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Swyam Arora
+</h1>
 
+<h3 align="center">
+A passionate AI/ML Engineer, Full Stack Developer, and Data Analyst
+</h3>
+
+<p align="center">
+I thrive on transforming ideas into intelligent solutions using code and data. <br>
+My journey in tech is driven by curiosity, continuous learning, and innovation.
+</p>
+
+---
+
+### 💫 About Me
+
+- 🔭 Currently working on **Machine Learning projects (Fraud Detection, Finance Manager)**
+- 🤖 Building **Full-stack AI-based applications**
+- 🌱 Exploring **Advanced ML, Data Science & Backend Systems**
+- 👯 Looking to collaborate on **AI/ML & Open Source Projects**
+- 🤝 Seeking help in **Deep Learning & MLOps**
+- 💬 Ask me about **Python, ML, Data Analysis, DSA**
+- 📫 Reach me at: **swyamarora1@gmail.com**
+- ⚡ Fun fact: I love turning data into meaningful insights 🚀  
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Swyam Arora) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swyamarora1@gmail.com) 
